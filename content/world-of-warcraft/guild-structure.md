@@ -6,6 +6,8 @@ type: post
 summary: Guild ranks structure and permissions
 ---
 
+## Ranks
+
 |      Rank      | Repairs (Daily) | Banking (Daily) |    Description     |
 |:-------------- |:---------------:|:---------------:|:------------------:|
 | High Marshal   | 5000g           | 10 Stacks       | Sr. Officer        |
@@ -13,5 +15,7 @@ summary: Guild ranks structure and permissions
 | Elite Ranger   | 1000g           | 5 Stacks        | Raid/M+ Attendance |
 | Ranger (I-III) | 500g            | 3 Stacks        | Guild Note[^1]     |
 | Scout          | 100g            | 1 Stack         | Member             |
+
+## Footnotes
 
 [^1]: Item Level & Professions in Guild Note.
