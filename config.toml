@@ -27,7 +27,7 @@ tags = '/tag/:title'
   description = "The last theme you'll ever need. Maybe."
   background_color_class = "bg-black"
   recent_posts_number = 3
-  custom_css = ["db_sans.css"]
+  custom_css = ["db-sans.css", "table-borders.css"]
 
 [markup]
   [markup.highlight]
