@@ -23,7 +23,7 @@ The following information is from the 10.1.0 PTR and possibly wrong for the 10.1
 
 Kazzara uses this ability as specific health thresholds are reached.
 
-Inflicts raid-wide damage, and gives everyone a damage over time debuff that increases in damage as Kazzara's health decreases.
+Inflicts raid-wide damage, and causes [Infernal Heart](https://www.wowhead.com/ptr/spell=408367/infernal-heart) which is a raid-wide DOT.
 
 Periodically spawns [Hellsteel Fragment](https://www.wowhead.com/ptr/spell=402461/hellsteel-fragment?dd=15&ddsize=30) and [Revenant's Blood](https://www.wowhead.com/ptr/spell=404789/revenants-blood?dd=15&ddsize=30) on arena.
 
@@ -37,13 +37,15 @@ Use the puddles to remove [Rays of Anguish](https://www.wowhead.com/ptr/spell=40
 
 Targets random player(s) and sends a red arrow after them that inflicts damage and drops fire puddles on the ground.
 
-Kite into [Dread Rifts](https://www.wowhead.com/ptr/spell=407196/dread-rifts?dd=15&ddsize=30) to remove it.
+(Heroic/Mythic) Kite into [Dread Rifts](https://www.wowhead.com/ptr/spell=407196/dread-rifts?dd=15&ddsize=30) to remove it.
+(Mythic-only) Avoid crossing the path other arrows have taken, this causes raid-wide damage.
 
 #### [Hellbeam](https://www.wowhead.com/ptr/spell=400430/hellbeam?dd=15&ddsize=30)
 
 Kazzara uses this ability when reaching 100 energy.
 
-Target random player and shoots dragons breath in their direction.
+Target random player and shoots dragons breath in their direction, this will inflict damage and a DOT on anyone caught in it.
+The heat of the breath also puts a DOT on everyone in the raid.
 
 #### [Wings of Extinction](https://www.wowhead.com/ptr/spell=403326/wings-of-extinction?dd=15&ddsize=30)
 
