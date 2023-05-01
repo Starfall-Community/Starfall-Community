@@ -2,6 +2,7 @@
 title: Addons
 date: 2023-04-30T20:40:29-04:00
 author: Shämda
+type: post
 categories:
 - world-of-warcraft
 tags:

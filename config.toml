@@ -7,6 +7,12 @@ SectionPagesMenu = "main"
 Paginate = 10
 googleAnalytics = "G-TSH75V2ZCY"
 enableRobotsTXT = true
+canonifyURLs = true
+
+[permalinks]
+general = '/general/:year/:month/:title'
+world-of-warcraft = '/world-of-warcraft/:year/:month/:title'
+tags = '/tag/:title'
 
 [sitemap]
   changefreq = "monthly"
