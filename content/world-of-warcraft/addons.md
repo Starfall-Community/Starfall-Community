@@ -45,4 +45,3 @@ date: 2023-04-30T20:40:29-04:00
 * [TomCat's Tours](https://www.curseforge.com/wow/addons/tomcats) - Rare spawn locations and info (drops, etc).
 * [TomTom](https://www.curseforge.com/wow/addons/tomtom) - Personal navigation assistant.
 * [World Quest Tracker](https://www.curseforge.com/wow/addons/world-quest-tracker) - Adds a custom tracker, you can manage which quests you want to do.
-
