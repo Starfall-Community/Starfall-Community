@@ -8,6 +8,7 @@ tags:
 - world-of-warcraft
 - addons
 summary: A collection of common World of Warcraft Addons.
+toc: true
 ---
 
 ## UI
