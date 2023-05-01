@@ -1,7 +1,7 @@
 ---
 title: "Example Posting Directly"
 date: 2023-04-30T20:51:24-04:00
-draft: true
+draft: false
 ---
 
 # Shoutout to those who achieved AOTC tonight! 
