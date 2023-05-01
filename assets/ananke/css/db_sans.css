@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DB Sans';
+    src: url(/db-sans-bold.woff2);
+}
+
+.db-sans {
+    font-family: 'DB Sans';
+}

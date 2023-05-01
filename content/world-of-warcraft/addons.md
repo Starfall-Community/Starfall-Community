@@ -1,7 +1,7 @@
 ---
 title: Addons
 date: 2023-04-30T20:40:29-04:00
-author: Dgby
+author: Shämda
 categories:
 - world-of-warcraft
 tags:
