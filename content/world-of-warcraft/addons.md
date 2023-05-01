@@ -1,6 +1,12 @@
 ---
-title: "Addons"
+title: Addons
 date: 2023-04-30T20:40:29-04:00
+author: Dgby
+category: world-of-warcraft
+tags:
+- world-of-warcraft
+- addons
+summary: A collection of common World of Warcraft Addons.
 ---
 
 ## UI
