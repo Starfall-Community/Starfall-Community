@@ -2,6 +2,7 @@ baseURL = 'https://starfall.community/'
 languageCode = 'en-us'
 title = 'STARFALL'
 theme = 'ananke'
+sectionPagesMenu = 'main'
 
 [markup]
 
@@ -24,3 +25,11 @@ tabWidth = 4
 endLevel = 3
 ordered = false
 startLevel = 2
+
+[menu]
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 1
+

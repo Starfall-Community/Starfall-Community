@@ -2,7 +2,8 @@
 title: Addons
 date: 2023-04-30T20:40:29-04:00
 author: Dgby
-category: world-of-warcraft
+categories:
+- world-of-warcraft
 tags:
 - world-of-warcraft
 - addons
