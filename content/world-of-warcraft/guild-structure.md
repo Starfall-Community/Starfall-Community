@@ -4,6 +4,7 @@ date: 2023-05-01T11:57:19-04:00
 author: Hoboto
 type: post
 summary: Guild ranks structure and permissions
+draft: true
 ---
 
 ## Ranks

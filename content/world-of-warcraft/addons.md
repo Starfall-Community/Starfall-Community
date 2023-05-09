@@ -10,6 +10,7 @@ tags:
 - addons
 summary: A collection of common World of Warcraft Addons.
 toc: true
+draft: true
 ---
 
 ## UI

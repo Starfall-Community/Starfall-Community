@@ -1,8 +1,7 @@
 ---
-title: "New Website"
+title: "Under Construction"
 date: 2023-04-30T21:36:17-04:00
 type: post
-draft: true
 ---
 
-## TODO: blog post about the new website!
+# Currently under construction, check back later!
